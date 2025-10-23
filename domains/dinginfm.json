@@ -1,0 +1,10 @@
+{
+  "description": "Dingin FM — Independent online radio station",
+  "repo": "dinginfm/dinginfm.github.io",
+  "owner": {
+    "email": "dinginfm@gmail.com"
+  },
+  "record": {
+    "CNAME": "dinginfm.github.io"
+  }
+}
